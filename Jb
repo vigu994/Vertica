@@ -1,0 +1,22 @@
+Act as an expert labor-market researcher and business analyst. For this niche, identify
+companies with the strongest current and forward-looking hiring signals.
+Research credible, recent sources and rank companies based on:
+1. Fastest revenue/business growth in the last 2–3 years.
+2. Entering the target geography recently or this year.
+3. Expanding offices, GCCs, plants, teams, products, or operations.
+4. Employee headcount growth over the last 6–24 months.
+5. Increasing job openings or actively hiring for relevant functions.
+6. Recent Series C+ funding, IPO, major investment, acquisition, or large contracts.
+7. Senior leadership appointments indicating expansion.
+8. Highest compensation based on Levels.fyi, Glassdoor, AmbitionBox, etc.
+9. Strong employee growth opportunities and culture.
+10. Any other credible hiring signal suggesting increased hiring over the next 6–12
+months.
+Prioritize hiring probability over company popularity.
+For each company, provide the evidence, hiring signal, source, date, and relevant
+roles/functions being hired.
+Finally, create a Top 20 Target Companies ranking with:
+Company | Hiring Signal | Headcount Trend | Relevant Hiring | Growth Signal | Pay |
+Hiring Probability (High/Medium/Low) | Why Target Now
+Exclude companies with significant recent layoffs, hiring freezes, or declining headcount
+unless there is clear evidence that my target function is expanding.
